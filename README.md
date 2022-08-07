@@ -1,2 +1,2 @@
 # async-nilaina
- fonction et modèles communs pour le code asynchrone
+ fonctions et modèles communs pour le code asynchrone
